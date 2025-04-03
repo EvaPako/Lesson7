@@ -12,7 +12,7 @@ import org.testng.Assert;
 import org.testng.annotations.*;
 import java.time.Duration;
 
-public class TESTmts {
+public class Testtest {
 
     private static WebDriver driver;
 
